@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Tsunghan Hsieh. This account hosts my personal projects. Currently I am working as a post-doc fellow in RIKEN Yokohama.
+- 👋 Hi, I’m Tsunghan Hsieh. This account hosts my personal projects. Currently I am working as a Data Analyst in RIKEN Yokohama.
 - 👀 I’m interested in data analysis and bioinformatics.
-- 🌱 I’m currently learning about how to analyze methylated DNA sequences.
-- 💞️ I’m looking to collaborate on people who are interesting on aging.
+- 🌱 I’m currently learning about how to analyze scRNA.
+- 💞️ I’m looking for a Data Analyst / Bioinformatics job.
 - 📫 You can reach me via tsung-han.hsieh@riken.jp
 
 <!---
