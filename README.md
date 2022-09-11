@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Tsunghan Hsieh. This account hosts my personal projects. Currently I am working as a Data Analyst in RIKEN Yokohama.
 - 👀 I’m interested in data analysis and bioinformatics.
-- 🌱 You can check my data analyst resume in [here](./pocession/ApplyDataScientist/DataAnalyst_general.pdf).
+- 🌱 You can check my data analyst resume in [here](ApplyDataScientist/DataAnalyst_general.pdf).
 - 💞️ I’m looking for a Data Analyst / Bioinformatics job.
 - 📫 You can reach me via tsung-han.hsieh@riken.jp
 
