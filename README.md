@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 👋 Hi, I’m Tsunghan Hsieh. This account hosts my personal projects. Currently I am working as a Data Analyst in RIKEN Yokohama.
+- 👋 Hi, I’m Tsunghan Hsieh. This account hosts my personal projects. Currently I am working as a Bioinformatician in Radboud University.
 - 👀 I’m interested in data analysis and bioinformatics.
 - 🌱 You can check my data analyst resume in [here](../../../ApplyDataScientist/blob/main/CV_Tsunghan_Hsieh_DataAnalyst.pdf).
 - 💞️ I’m looking for a Data Analyst / Bioinformatics job.
-- 📫 You can reach me via tsung-han.hsieh@riken.jp
+- 📫 You can reach me via tsunghan.hsieh@ru.nl.
 
 <!---
 TsunghanHsieh/TsunghanHsieh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
